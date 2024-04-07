@@ -1,0 +1,40 @@
+/* home.css */
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    width: 80%; /* Ajusta el ancho según sea necesario */
+    text-align: center; /* Centra el contenido */
+  }
+  
+  h2 {
+    font-size: 60px; /* Tamaño de fuente más grande */
+    margin-bottom: 20px; /* Mayor espacio inferior */
+    align-content: center;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ff69b4; /* Color de texto rosado */
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
